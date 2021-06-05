@@ -1,1 +1,1 @@
-## GraphQL Authentication built with ApolloServer and SequelizeORM
+
