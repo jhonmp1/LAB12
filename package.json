@@ -1,7 +1,7 @@
 {
   "name": "graphql-auth",
   "version": "1.0.0",
-  "description": "Graphql Auth API with ApolloServer, jwt and sequelize ORM",
+  "description": "Graphql CON UN API",
   "main": "index.js",
   "scripts": {
     "migrate": " sequelize db:migrate",
